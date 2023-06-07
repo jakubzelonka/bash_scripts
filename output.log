@@ -1,0 +1,9 @@
+total 56
+-rwxr-xr-x  1 jakub  staff   12  6 Jun 16:45 00_template.sh
+-rwxr-xr-x  1 jakub  staff   31  6 Jun 16:47 01_hello_world.sh
+-rwxr-xr-x  1 jakub  staff  164  6 Jun 17:07 02_variables.sh
+-rwxr-xr-x  1 jakub  staff   17  6 Jun 17:09 03_env_variables.sh
+-rwxr-xr-x  1 jakub  staff   39  7 Jun 10:04 05_math.sh
+-rwxr-xr-x  1 jakub  staff  340  7 Jun 15:03 06_if.sh
+-rwxr-xr-x  1 jakub  staff  118  7 Jun 15:21 07_exitcodes.sh
+-rw-r--r--  1 jakub  staff    0  7 Jun 15:22 output.log
